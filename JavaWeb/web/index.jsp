@@ -12,6 +12,6 @@
   </head>
   <body>
   <h1 style="color: red">这是一个标题</h1>
-  <h2 style="color:yellow;">这是第二个标题</h2>
+  <h2 style="color:yellow;">这是第二个标题!!!</h2>
   </body>
 </html>
